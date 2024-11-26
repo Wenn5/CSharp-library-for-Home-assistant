@@ -1,1 +1,1 @@
-# Home-assistant-c--websocket
+# Home Assistant CSharp websocket library
