@@ -1,3 +1,4 @@
+# Note: Developing phase
 # .Net library for Home-assistant
 Encapsulation of [Home Assistant websocket APIs](https://developers.home-assistant.io/docs/api/websocket) using C#.
 
